@@ -1,21 +1,14 @@
 # Neural-network-from-scratch
 Neural Network Toolkit from scratch
+Easy edition, easier to learn and use
 
 ## Libraries Used
 - Numpy
-- Matplotlib
-- Pandas
 
 ## Usage
-- Train only
 ```
-python main.py
-```
-
-- Train with prediction
-```
-python predict.py
+python neural_network.py
 ```
 
 ## Reminder
-- Change the filepath in `main.py` or `predict.py`
+- Change the filepath in `neural_network.py`
