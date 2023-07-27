@@ -64,3 +64,13 @@ class NeuralNetwork:
                     print(f"Epoch {e+1}/{epochs}\t\tMSE: {loss:.6f}")
                 else:
                     raise ValueError("Aiyo, What you cHOose!?!?!")
+                
+
+
+# Sample Usage
+import pandas as pd
+# Import X and y here
+
+NN = NeuralNetwork(X,y,hidden_dim=2, learning_rate=0.001,method="Regression")
+NN.train(epochs=20)
+NN.forward_propagation(X_test)
