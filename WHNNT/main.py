@@ -12,4 +12,4 @@ def main(filepath):
     NN.train(epochs=50)
 
 if __name__ == "__main__":
-    main("./Data/Data.csv")
+    main("Change Filepath Here")
