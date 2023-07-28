@@ -9,13 +9,13 @@ Neural Network Toolkit from scratch
 ## Usage
 - Train only
 ```
-python main.py
+python demo.py
 ```
 
 - Train with prediction
 ```
-python predict.py
+python demo_with_predicting.py
 ```
 
 ## Reminder
-- Change the filepath in `main.py` or `predict.py`
+- Change the filepath in `demo.py` or `demo_with_predicting.py`
