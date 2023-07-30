@@ -33,7 +33,3 @@ class Initializer():
         """
         limit = np.sqrt(2 / dim1 * (1 + alpha**2))
         return np.random.uniform(-limit, limit, (dim1, dim2))
-
-class Normalizer():
-    def __init__(self) -> None:
-        pass
