@@ -5,5 +5,5 @@
 - Commit __init__.py
 - Rename `main.py` & `predict.py`
 
-# 1.1
+# 1.10
 - Commit normalization function
