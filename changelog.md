@@ -7,3 +7,6 @@
 
 # 1.10
 - Commit normalization function
+
+# 1.20
+- Demo revisit
