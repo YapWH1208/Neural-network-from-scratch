@@ -147,6 +147,6 @@ class NeuralNetwork(Optimizer, Initializer, Normalizer, Metrics):
                     loss_list.append(loss)
                     print(f"Epoch {e+1}/{epochs}\t\tMSE: {loss:.6f}")
                 else:
-                    raise ValueError("Aiyo, What you cHOose!?!?!")
+                    raise ValueError("Aiyo, What you cHOoSe!?!?!")
         if self.plot:
             self.plot_graph(epochs, loss_list, accuracy_list, start)
