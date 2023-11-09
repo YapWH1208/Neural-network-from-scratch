@@ -8,6 +8,12 @@ Neural Network Toolkit from scratch
 
 ## Demo
 ```
+git clone https://github.com/YapWH1208/Neural-network-from-scratch.git
+```
+```
+cd Neural-network-from-scratch
+```
+```
 python demo.py
 ```
 
